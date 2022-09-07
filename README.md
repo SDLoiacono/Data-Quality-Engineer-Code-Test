@@ -4,7 +4,6 @@
 ## Technologies Used
 
 Python 3.10.5
-Pandas
 
 ## Setup
 
